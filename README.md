@@ -36,11 +36,17 @@
 
 </div>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammed-bfaisal&bg_color=0D1117&color=00D9FF&line=00FF87&point=FF6B6B&area_color=001F2E&area=true&hide_border=true&custom_title=Contribution%20Timeline%20%28Public%20%2B%20Private%29&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.pumbas.net/api/contributions/mohammed-bfaisal?colour=00D9FF&bgColour=0D1117#gh-dark-mode-only"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.pumbas.net/api/contributions/mohammed-bfaisal?colour=00D9FF&bgColour=F6F8FA#gh-light-mode-only"
+  />
+  <img src="https://github.pumbas.net/api/contributions/mohammed-bfaisal?colour=00D9FF&bgColour=0D1117" width="100%" alt="Contribution Heatmap"/>
+</picture>
 
 ---
 
