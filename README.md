@@ -86,6 +86,4 @@
 
 [![Follow](https://img.shields.io/github/followers/mohammed-bfaisal?label=Follow%20%40mohammed-bfaisal&style=social)](https://github.com/mohammed-bfaisal)
 
-*"Knowledge without the courage to act upon it is no knowledge at all."*
-
 </div>
